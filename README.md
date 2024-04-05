@@ -13,6 +13,7 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="Css3" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
   
 </div> <br>
