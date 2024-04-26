@@ -8,7 +8,7 @@
 
 
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHpCaldas&show_icons=true&theme=dracula)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHpCaldas&show_icons=true&theme=nightowl)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"> <br>
