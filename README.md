@@ -2,7 +2,7 @@
 (Java | Spring Boot | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 
 👩‍💻 Software Enginner
-🎓 Computer Science Student @Estacio
+🎓 Computer Science Student
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhpcaldas/)
 
