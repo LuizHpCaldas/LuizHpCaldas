@@ -12,6 +12,7 @@ deepening my knowledge in scientific computing and data analysis.
 - Java
 - Python
 - MySQL
+  
 **Frontend**
 - React.js
 - TypeScript
